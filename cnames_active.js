@@ -474,6 +474,7 @@ var cnames_active = {
   "dynamicsnode": "crisfervil.github.io/DynamicsNode",
   "dynwriter": "orbitalproject.github.io/dyn-client",
   "dyo": "dyo.github.io/dyo",
+  "demo":"https://github.com/DemonKHH/demo"
   "eahmed234": "eahmed234.github.io",
   "easy-bot": "bigaston.github.io/easy-bot",
   "eatery-nod-w": "kevinast.github.io/eatery-nod-w",
